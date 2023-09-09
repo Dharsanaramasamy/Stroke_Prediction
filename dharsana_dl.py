@@ -49,7 +49,7 @@ df_train.isnull().sum()
 # In[7]:
 
 
-pip install scikit-learn
+
 
 
 # In[8]:
