@@ -17,13 +17,13 @@ import seaborn as sns
 # In[2]:
 
 
-pip install seaborn
+
 
 
 # In[8]:
 
 
-pip install tensorflow
+
 
 
 # In[ ]:
