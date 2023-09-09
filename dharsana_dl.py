@@ -238,7 +238,7 @@ model.save('D:/DL/model1.h5')
 # In[30]:
 
 
-pip install streamlit
+
 
 
 # In[32]:
