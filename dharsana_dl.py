@@ -260,7 +260,7 @@ from tensorflow import keras
 # In[35]:
 
 
-model = keras.models.load_model('D:/DL/model1.h5')
+model = keras.models.load_model('model1.h5')
 
 
 # In[36]:
